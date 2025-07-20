@@ -68,27 +68,22 @@
   <img src="https://github-profile-trophy.vercel.app?username=Amalhdyt079&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+<br clear="both">
 
-<details>
-  <summary>👾 Pacman Contribution Graph</summary>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
-  </picture>
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<details>
-  <summary>🐍 Snake Contribution Graph</summary>
-  <br/>
-  <img src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/snake.svg" alt="Snake animation" />
-</details>
+<img src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/snake.svg" alt="Snake animation" />
+
 ###
 
-<!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
