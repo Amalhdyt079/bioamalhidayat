@@ -76,12 +76,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
