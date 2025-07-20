@@ -70,18 +70,25 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
-</picture>
+<details>
+  <summary>👾 Pacman Contribution Graph</summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
+  </picture>
+</details>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/snake.svg" alt="Snake animation" />
-
+<details>
+  <summary>🐍 Snake Contribution Graph</summary>
+  <br/>
+  <img src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/snake.svg" alt="Snake animation" />
+</details>
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
