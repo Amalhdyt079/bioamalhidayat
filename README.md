@@ -71,14 +71,14 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amalhdyt079/Amalhdyt079/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amalhdyt079/Amalhdyt079/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amalhdyt079/Amalhdyt079/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Amalhdyt079/Amalhdyt079/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Amalhdyt079/bioamalhidayat/output/snake.svg" alt="Snake animation" />
 
 ###
 
